@@ -17,7 +17,7 @@ struct SinhVien {
     float diemTB = 0;
     char hocluc[10] = "-";
 };
-
+//Tran Duy Long
 typedef SinhVien SV;
 
 void printLine(int n);
